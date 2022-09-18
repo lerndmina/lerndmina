@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Thalwyrn](https://thalwyrn.com)
 
-- 🌱 I’m currently learning **Java, Spigot API**
+- 🌱 I’m currently learning **Java, JS & The Bukkit/Spigot/Paper API**
 
 - 👨‍💻 Browse my website at [https://lerndmina.dev](https://lerndmina.dev)
 
