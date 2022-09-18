@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me on Discord:</h3>
 <p align="left">
-<a href="https://dsc.bio/wild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wild#1111" height="30" width="40" /></a>
+<a href="https://discords.com/bio/p/23417904-3b87-3e03-4006-71861549e0b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wild#1111" height="30" width="40" /></a>
 </p>
 </p>
 
