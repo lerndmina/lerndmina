@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://wakatime.com/@de05fac3-aa1d-4f30-bee9-8682f6f2d9d7"><img src="https://wakatime.com/badge/user/de05fac3-aa1d-4f30-bee9-8682f6f2d9d7.svg" alt="Total time coded since Apr 17 2020" /></a> <img src="https://komarev.com/ghpvc/?username=lerndmina&label=Profile%20views&color=0e75b6&style=flat" alt="lerndmina" />
 
-- 🔭 I’m currently working on [Thalwyrn](https://thalwyrn.com)
+- 🔭 I’m currently working on [Thalwyrn](https://thalwyrn.com) & [My personal site](https://lerndmina.dev)
 
 - 🌱 I’m currently learning **Java, JS & The Bukkit/Spigot/Paper API**
 
