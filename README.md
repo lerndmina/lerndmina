@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A Systems Administrator living in the UK</h3>
+<h3 align="center">A Systems Administrator & Aspiring Developer living in the UK</h3>
 
 <p align="left">
 <a href="https://wakatime.com/@de05fac3-aa1d-4f30-bee9-8682f6f2d9d7"><img src="https://wakatime.com/badge/user/de05fac3-aa1d-4f30-bee9-8682f6f2d9d7.svg" alt="Total time coded since Apr 17 2020" /></a> <img src="https://komarev.com/ghpvc/?username=lerndmina&label=Profile%20views&color=0e75b6&style=flat" alt="lerndmina" />
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, JS & The Bukkit/Spigot/Paper API**
 
-- 👨‍💻 Browse my website at [https://lerndmina.dev](https://lerndmina.dev)
+- 👨‍💻 Browse my website at [Lerndmina.dev](https://lerndmina.dev)
 
 - 📫 How to reach me **wild@lerndmina.dev**
 
