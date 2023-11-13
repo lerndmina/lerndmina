@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Thalwyrn](https://thalwyrn.com) & [My personal site](https://imadam.io)
 
-- 🌱 I’m currently learning **Java, JS & The Bukkit/Spigot/Paper API**
+- 🌱 I’m currently learning backend development on [Boot.dev](https://www.boot.dev/u/wild)
 
 - 👨‍💻 Browse my website at [ImAdam.io](https://imadam.io)
 
