@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning backend development on [Boot.dev](https://www.boot.dev/)
 
-- 👨‍💻 Browse my website at [ImAdam.io](https://imadam.io)
+- 👨‍💻 Browse my website at [imadam.io](https://imadam.io)
 
 - 📫 How to reach me **hey@imadam.io**
 
